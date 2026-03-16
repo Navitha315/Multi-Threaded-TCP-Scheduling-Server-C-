@@ -233,6 +233,6 @@ Possible enhancements include:
 ## Author
 
 Navitha E
-B.Tech Computer Science
+Integrated M.Tech Computer Science
 
 ---
